@@ -11,8 +11,7 @@ const connectDB = require('./config/dbConn');
 const mongoose = require('mongoose');
 const { logger, logEvents } = require('./middleware/logger');
 const PORT = process.env.PORT || 3500;
-// gayansandeepam88
-// ImtEJpXG6eZFfWYG
+
 
 console.log(process.env.NODE_ENV);
 
